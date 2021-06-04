@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+    color: black;
+}
+.heading{
+    font-size:50px;
+    width: 80%;
+}
+.nameofobjects{
+    background-color: crimson;
+    width: 700px;
+    color: ghostwhite;
+    margin: 50px;
+    padding: 20px;
+    border-radius: 10%;
+}
